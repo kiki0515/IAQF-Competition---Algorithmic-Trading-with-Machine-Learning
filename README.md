@@ -27,6 +27,6 @@ superior performance of our trading strategies
 compared to naive buy-and-hold strategy.
 ## Keywords 
 Stock Market State, Time Series,
-Machine Learning, Deep Learning, Trading
+Machine Learning, Deep Learning, Algorithmic Trading
 Strategy
 
